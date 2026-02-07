@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Apprendre-l-anglais/static/css/main.e31cafb0.css",
-    "main.js": "/Apprendre-l-anglais/static/js/main.6bc285fa.js",
+    "main.js": "/Apprendre-l-anglais/static/js/main.e5c1d6c5.js",
     "index.html": "/Apprendre-l-anglais/index.html",
     "main.e31cafb0.css.map": "/Apprendre-l-anglais/static/css/main.e31cafb0.css.map",
-    "main.6bc285fa.js.map": "/Apprendre-l-anglais/static/js/main.6bc285fa.js.map"
+    "main.e5c1d6c5.js.map": "/Apprendre-l-anglais/static/js/main.e5c1d6c5.js.map"
   },
   "entrypoints": [
     "static/css/main.e31cafb0.css",
-    "static/js/main.6bc285fa.js"
+    "static/js/main.e5c1d6c5.js"
   ]
 }
