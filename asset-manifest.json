@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/a09232952-bit/Apprendre-l-anglais.git/static/css/main.e31cafb0.css",
+    "main.js": "/a09232952-bit/Apprendre-l-anglais.git/static/js/main.6bc285fa.js",
+    "index.html": "/a09232952-bit/Apprendre-l-anglais.git/index.html",
+    "main.e31cafb0.css.map": "/a09232952-bit/Apprendre-l-anglais.git/static/css/main.e31cafb0.css.map",
+    "main.6bc285fa.js.map": "/a09232952-bit/Apprendre-l-anglais.git/static/js/main.6bc285fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e31cafb0.css",
+    "static/js/main.6bc285fa.js"
+  ]
+}
